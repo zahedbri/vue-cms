@@ -5,4 +5,6 @@ coverImage: /images/travel-trends.png
 ---
 This is an about page 
 
-Will tell you the story why the excitement!
+I am a hobbyist learner all scrubs from the Python and other Open Source Programming and I like to design and develop websites.
+
+Zaslinks Tech Ltd
