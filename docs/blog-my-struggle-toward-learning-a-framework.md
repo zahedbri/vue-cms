@@ -11,6 +11,4 @@ After a long journey of life ended, I again started learning programming languag
 
 Off course, the story will remain if I dont mention about Github which came to my life as a savior to dive deep into learning many programming things and technics!
 
-
-
 ![js-frameworks](/images/frontend-javascript-frameworks-angular1551444402455.png "JS Frameworks ")
